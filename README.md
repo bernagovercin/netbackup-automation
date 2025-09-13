@@ -2,10 +2,6 @@
 
 ## NetBackup yedekleme sistemleri için Python + Tkinter tabanlı GUI otomasyon aracı.  
 ## Katmanlı mimari (Layered Architecture) prensipleriyle geliştirilmiştir.
-## 📊 Mimarisi
-![Mimari](https://github.com/bernagovercin/netbackup-otomasyon/blob/master/assets/app-gorsell.jpg?raw=true)
-
-
 
 
 ### 🚀 Özellikler
