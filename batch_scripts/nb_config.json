@@ -1,0 +1,9 @@
+{
+    "nb_server": "https://win-t89q8gl89g1:1556",
+    "username": "nbwebsvc",
+    "password": "**********.master",
+    "update_interval": 30,
+    "use_local_db": true,
+    "api_timeout": 15,
+    "retry_attempts": 3 
+}

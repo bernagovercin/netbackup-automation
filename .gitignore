@@ -1,0 +1,26 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Local data / secrets
+*.db
+*.sqlite
+.env
+token.txt
+current_api_key.txt
+
+# OS
+.DS_Store
+Thumbs.db

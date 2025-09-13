@@ -1,0 +1,2 @@
+1b4f2986-c008-4b2c-9e22-f65bd1cae7f6,win-t89q8gl89g1,Windows,NetBackup_11.0
+5d9b4ed0-ef7e-4a88-a6cc-2d0b09d8ca0b,rhelnbu9,UNIX,NetBackup_11.0
