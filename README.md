@@ -7,6 +7,7 @@
 
 
 
+
 ### 🚀 Özellikler
 #### ✅ Backup job’larını takip etme ve yönetme  
 #### ✅ API anahtarı oluşturma ve listeleme  
