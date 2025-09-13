@@ -2,6 +2,9 @@
 
 ## NetBackup yedekleme sistemleri için Python + Tkinter tabanlı GUI otomasyon aracı.  
 ## Katmanlı mimari (Layered Architecture) prensipleriyle geliştirilmiştir.
+## 📊 Mimarisi
+![Mimari](assets/uyg-mimari.jpg)
+
 
 ### 🚀 Özellikler
 #### ✅ Backup job’larını takip etme ve yönetme  
