@@ -38,6 +38,3 @@ class NetBackupGUI:
 
         # Arkaplan güncelleme
         self.start_dashboard_updates()
-
-    # Kalan kodlar aynı şekilde devam ediyor...
-    # Sadece config ve job işlemleri için artık servisleri kullanıyor
